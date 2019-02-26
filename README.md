@@ -1,4 +1,4 @@
-# yarn-update-dep
+# yarn-update-dependency
 
 Update a yarn dependency across a project/workspace & sub-dependencies.
 
@@ -13,7 +13,7 @@ yarn-update my-dependency ~0.5.1
 ## Installation
 
 ```bash
-yarn global add yarn-update-dep
+yarn global add yarn-update-dependency
 ```
 
 ## What does it do?

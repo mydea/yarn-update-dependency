@@ -1,0 +1,25 @@
+{
+  "name": "yarn-update-dependency",
+  "version": "0.0.1",
+  "description": "Update a version for a specific dependency",
+  "author": "Francesco Novy <francesconovy@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "yu aaa 0.1.0"
+  },
+  "main": "./lib/update-dep.js",
+  "bin": {
+    "yarn-update": "./bin/yarn-update",
+    "yu": "./bin/yarn-update"
+  },
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "chalk": "^2.4.2",
+    "glob": "^7.1.3"
+  }
+}
