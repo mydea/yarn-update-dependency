@@ -5,9 +5,10 @@ Update a yarn dependency across a project/workspace & sub-dependencies.
 ## Usage
 
 ```bash
-yu my-dependency ~0.5.1
-# or:
-yarn-update my-dependency ~0.5.1
+yu my-dependency 0.5.1          # my-dependency@~0.5.1
+yu my-dependency 0.5.1 --exact  # my-dependency@0.5.1
+yu my-dependency 0.5.1 --caret  # my-dependency@^0.5.1
+yu -h # Output all available options
 ```
 
 ## Installation
