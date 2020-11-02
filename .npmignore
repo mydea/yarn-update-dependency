@@ -3,4 +3,4 @@ yarn.lock
 .gitignore
 .yarnrc
 /.idea
-./github
+/.github
