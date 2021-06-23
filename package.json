@@ -47,5 +47,9 @@
       "release": true
     },
     "npm": false
+  },
+  "volta": {
+    "node": "14.17.1",
+    "yarn": "1.22.10"
   }
 }
