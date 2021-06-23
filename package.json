@@ -46,8 +46,7 @@
     },
     "github": {
       "release": true
-    },
-    "npm": false
+    }
   },
   "volta": {
     "node": "14.17.1",
