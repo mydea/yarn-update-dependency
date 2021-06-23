@@ -5,6 +5,7 @@
   "author": "Francesco Novy <francesconovy@gmail.com>",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/mydea/yarn-update-dependency",
   "scripts": {
     "test": "yu aaa 0.1.0",
     "lint:js": "eslint . --cache",
