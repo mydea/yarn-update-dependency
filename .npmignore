@@ -4,3 +4,8 @@ yarn.lock
 .yarnrc
 /.idea
 /.github
+.eslintcache
+.eslintrc.js
+.eslintignore
+.prettierignore
+.prettierrc.json
