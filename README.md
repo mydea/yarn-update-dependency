@@ -8,6 +8,7 @@ Update a yarn dependency across a project/workspace & sub-dependencies.
 yu my-dependency 0.5.1          # my-dependency@~0.5.1
 yu my-dependency 0.5.1 --exact  # my-dependency@0.5.1
 yu my-dependency 0.5.1 --caret  # my-dependency@^0.5.1
+yu my-dependency # update to current latest version
 yu -h # Output all available options
 ```
 
