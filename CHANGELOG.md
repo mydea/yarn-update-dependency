@@ -1,3 +1,12 @@
+
+## v0.4.3 (2021-11-04)
+
+#### :house: Internal
+* [#48](https://github.com/mydea/yarn-update-dependency/pull/48) Use fabscale-eslint-config ([@mydea](https://github.com/mydea))
+
+#### Committers: 1
+- Francesco Novy ([@mydea](https://github.com/mydea))
+
 ## v0.4.2 (2021-06-23)
 
 #### :bug: Bug Fix
