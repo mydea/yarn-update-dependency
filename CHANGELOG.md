@@ -1,4 +1,13 @@
 
+
+## v0.5.0 (2021-11-30)
+
+#### :rocket: Enhancement
+* [#49](https://github.com/mydea/yarn-update-dependency/pull/49) Drop `--caret`/`--tilde`/`--exact` options and keep current instead ([@mydea](https://github.com/mydea))
+
+#### Committers: 1
+- Francesco Novy ([@mydea](https://github.com/mydea))
+
 ## v0.4.3 (2021-11-04)
 
 #### :house: Internal
