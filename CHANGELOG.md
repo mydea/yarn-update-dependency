@@ -1,5 +1,14 @@
 
 
+
+## v0.6.0 (2021-11-30)
+
+#### :rocket: Enhancement
+* [#50](https://github.com/mydea/yarn-update-dependency/pull/50) feat: Add `--all-dependencies` and `--all-dev-dependencies` ([@mydea](https://github.com/mydea))
+
+#### Committers: 1
+- Francesco Novy ([@mydea](https://github.com/mydea))
+
 ## v0.5.0 (2021-11-30)
 
 #### :rocket: Enhancement
