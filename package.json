@@ -30,7 +30,7 @@
     "@babel/eslint-parser": "~7.16.0",
     "eslint": "~8.1.0",
     "fabscale-eslint-config": "~1.1.1",
-    "prettier": "~2.4.1",
+    "prettier": "~2.6.1",
     "release-it": "~14.11.6",
     "release-it-lerna-changelog": "~4.0.1"
   },
