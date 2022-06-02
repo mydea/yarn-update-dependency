@@ -1,6 +1,6 @@
 {
   "name": "yarn-update-dependency",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Update a version for a specific dependency",
   "author": "Francesco Novy <francesconovy@gmail.com>",
   "license": "MIT",
