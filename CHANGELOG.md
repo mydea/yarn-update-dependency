@@ -1,6 +1,19 @@
 
 
 
+
+## v0.7.1 (2022-08-04)
+
+#### :bug: Bug Fix
+* [#81](https://github.com/mydea/yarn-update-dependency/pull/81) Fix logger usage ([@mydea](https://github.com/mydea))
+
+#### :house: Internal
+* [#84](https://github.com/mydea/yarn-update-dependency/pull/84) chore(deps-dev): bump release-it to 15.x ([@mydea](https://github.com/mydea))
+* [#82](https://github.com/mydea/yarn-update-dependency/pull/82) Auto-merge dependabot PRs ([@mydea](https://github.com/mydea))
+
+#### Committers: 1
+- Francesco Novy ([@mydea](https://github.com/mydea))
+
 ## v0.7.0 (2022-06-02)
 
 ## v0.6.0 (2021-11-30)
