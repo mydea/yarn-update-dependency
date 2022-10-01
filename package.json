@@ -32,7 +32,7 @@
     "eslint": "~8.21.0",
     "fabscale-eslint-config": "~1.1.1",
     "prettier": "~2.7.1",
-    "release-it": "~15.2.0"
+    "release-it": "~15.4.2"
   },
   "engines": {
     "node": "12.* || 14.* || >= 16"
